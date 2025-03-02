@@ -31,5 +31,5 @@
 *.out
 *.app
 .DS_Store
-tpc_c_cplusplus
+tpc_c_cplusplus/*
 libs
